@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/characters/gaara.jpg"
+    },
+    {
+        "id": 2,
+        "image": "./assets/characters/itachi.jpg"
+    },
+    {
+        "id": 3,
+        "image": "./assets/characters/jiraiya.jpg"
+    },
+    {
+        "id": 4,
+        "image": "./assets/characters/kakashi.jpg"
+    },
+    {
+        "id": 5,
+        "image": "./assets/characters/madara.jpg"
+    },
+    {
+        "id": 6,
+        "image": "./assets/characters/minato.jpg"
+    },
+    {
+        "id": 7,
+        "image": "./assets/characters/naruto.jpg"
+    },
+    {
+        "id": 8,
+        "image": "./assets/characters/neji.jpg"
+    },
+    {
+        "id": 9,
+        "image": "./assets/characters/orochimaru.jpg"
+    },
+    {
+        "id": 10,
+        "image": "./assets/characters/sakura.jpg"
+    },
+    {
+        "id": 11,
+        "image": "./assets/characters/sasuke.jpg"
+    },
+    {
+        "id": 12,
+        "image": "./assets/characters/tsunade.jpg"
+    }
+
+]
